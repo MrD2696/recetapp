@@ -1,0 +1,46 @@
+# --- Maven Build Target ---
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# --- Logs ---
+*.log
+logs/
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# --- Eclipse ---
+.settings/
+.project
+.classpath
+.factorypath
+.metadata/
+bin/
+
+# --- NetBeans ---
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# --- Visual Studio Code ---
+.vscode/
+
+# --- OS temporary files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# --- Miscellaneous ---
+*.tmp
+*.temp
